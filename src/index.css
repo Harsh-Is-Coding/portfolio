@@ -1,17 +1,61 @@
 @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap");
+
 body {
   margin: 0;
   font-family: "Raleway", serif !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: linear-gradient(to left, rgb(27 20 41), rgb(20 15 35));
+  background-image: linear-gradient(to left, rgb(27, 20, 41), rgb(20, 15, 35));
+  color: antiquewhite;
 }
 
-.header{
+.header {
   display: flex;
-
+  margin: 0;
+  padding: 0;
+  background-color: rgb(72, 61, 139);
+  opacity: 0.7; /* Set default opacity */
+  position: fixed;
+  top: 0;
+  width: 100%;
+  transition: opacity 0.3s ease,  /* Smooth transition for opacity change */
 }
 
-.personalLogo{
-  width: 0.1vh;
+.header:hover {
+  opacity: 1;
+}
+
+.navBar {
+  list-style-type: none;
+  overflow: hidden;
+  align-items: center; /* Center items vertically */
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.navItem a {
+  height: 100%;
+  display: block;
+  text-align: center;
+  padding: 2vh 3vh;
+  text-decoration: none;
+  border-left: 0.1vh solid rgb(250, 235, 215, 30);
+  transition: background-color 0.3s ease, opacity 0.3s ease; /* Smooth transition for hover effects */
+}
+
+.navItem a:hover {
+  background-color: rgb(38, 30, 90); /* Background color on hover */
+}
+
+.navItem a.active {
+  opacity: 0.7; /* Lower opacity for active items */
+}
+
+.personalLogo {
+  width: 7vh;
+  height: 7vh;
+  object-fit: cover;
 }

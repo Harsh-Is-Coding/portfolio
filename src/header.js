@@ -6,10 +6,10 @@ function Head() {
    <div className="header">
         <img src = {logo} className='personalLogo'/>
         <ul className="navBar">
-            <li className="navItem">about</li>
-            <li className="navItem">projects</li>
-            <li className="navItem">expierence</li>
-            <li className="navItem">contact</li>
+            <li className="navItem"><a>about</a></li>
+            <li className="navItem"><a>projects</a></li>
+            <li className="navItem"><a>expierence</a></li>
+            <li className="navItem"><a>contact</a></li>
         </ul>
     </div>);
 }
