@@ -16,7 +16,7 @@ body {
   margin: 0;
   padding: 0;
   background: #b833ec;
-  box-shadow: inset #000000;
+  
   opacity: 0.7; /* Set default opacity */
   position: fixed;
   top: 0;
@@ -70,7 +70,10 @@ body {
   align-items: center;
   width: 100%;
   margin: 0 auto;
+  display: inline;
 }
+
+
  .meImage {
   width: 60vh;
   height: 60vh;
@@ -78,14 +81,17 @@ body {
   object-fit: cover;
   justify-self: flex-end;
  }
-
+.aboutHead{
+  width: 50%;
+}
  .aboutContent{
   display: flex;
   flex-direction: column;
+  width: 50%;
  }
 
  .name{
-  font-size: 10vh;
+  font-size: 9vh;
   margin: 0;
  }
 
