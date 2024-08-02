@@ -1,6 +1,6 @@
 # Personal Portfolio Repository
 
-Welcome to my personal portfolio repository! This repository contains the source code for my personal portfolio website, showcasing my work, projects, and professional background. Below is an overview of the structure and contents of this repository.
+Welcome to my personal portfolio repository! This repository contains the source code for my personal portfolio website, showcasing my work, projects, and professional background. The site is live at [https://harsh-is-coding.github.io/](https://harsh-is-coding.github.io/). Below is an overview of the structure and contents of this repository.
 
 ## Table of Contents
 
