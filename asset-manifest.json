@@ -1,18 +1,29 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.e755709c.css",
-    "main.js": "/portfolio/static/js/main.6966b880.js",
-    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "main.css": "/portfolio/static/css/main.b973f249.css",
+    "main.js": "/portfolio/static/js/main.4af855d0.js",
+    "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/personal.png": "/portfolio/static/media/personal.cbd36bf2c222c2f42003.png",
+    "static/media/rigor.png": "/portfolio/static/media/rigor.663b3b34759e94e160c0.png",
     "static/media/head-shot.jpg": "/portfolio/static/media/head-shot.930c29dc871cc498fcb1.jpg",
-    "static/media/image.png": "/portfolio/static/media/image.71cb99e38aa142bc853b.png",
-    "static/media/personalLogo.png": "/portfolio/static/media/personalLogo.0b513542445a8ec8bfc8.png",
+    "static/media/Technical Resume - Harsh Shukla.pdf": "/portfolio/static/media/Technical Resume - Harsh Shukla.407b4b028c35f882ed8f.pdf",
+    "static/media/sevahub.png": "/portfolio/static/media/sevahub.0192a7d27503e9e05df5.png",
+    "static/media/eduglow.png": "/portfolio/static/media/eduglow.ff1c8779e491eb74e4b5.png",
+    "static/media/logo.png": "/portfolio/static/media/logo.3fae9d42b107b0da1b70.png",
+    "static/media/image.png": "/portfolio/static/media/image.6aafb746df06fa30d5fe.png",
+    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/portfolio/static/media/avatar.143884b8d6688f893e0b51ab7ed4cd10.svg",
+    "static/media/pre.svg": "/portfolio/static/media/pre.cb635ed4a0ddcf17b222.svg",
+    "static/media/robotics.webp": "/portfolio/static/media/robotics.a9c28ee4d9d7984cbaf0.webp",
     "index.html": "/portfolio/index.html",
-    "main.e755709c.css.map": "/portfolio/static/css/main.e755709c.css.map",
-    "main.6966b880.js.map": "/portfolio/static/js/main.6966b880.js.map",
-    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
+    "main.b973f249.css.map": "/portfolio/static/css/main.b973f249.css.map",
+    "main.4af855d0.js.map": "/portfolio/static/js/main.4af855d0.js.map",
+    "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e755709c.css",
-    "static/js/main.6966b880.js"
+    "static/css/main.b973f249.css",
+    "static/js/main.4af855d0.js"
   ]
 }
