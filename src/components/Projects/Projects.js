@@ -7,7 +7,7 @@ import eduglow from "../../Assets/Projects/eduglow.png";
 import rigor from "../../Assets/Projects/rigor.png";
 import robotics from "../../Assets/Projects/robotics.webp";
 import personal from "../../Assets/Projects/personal.png";
-
+import ecohub from "../../Assets/Projects/ecohub.png";
 
 function Projects() {
   return (
@@ -21,6 +21,16 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
+          <ProjectCard
+              imgPath={ecohub}
+              isBlog={false}
+              title="EcoHub"
+              description="EcoHub provides eco-friendly activities and rewards users with EcoCoins for their participation and positive environmental impact."
+              ghLink="https://github.com/Harsh-Is-Coding/terrahacks"
+              demoLink="https://devpost.com/software/ecohub-ry6n8o"
+            />
+          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={sevahub}
