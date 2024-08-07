@@ -309,6 +309,8 @@ button:focus {
   border-radius: 50% !important;
   border: 5px solid #6EACDA !important;
   box-shadow: 0 0 15px #6EACDA !important;
+  max-width: 100%;
+  height: auto;
 }
 
 .myAvtar {
