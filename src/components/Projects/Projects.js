@@ -8,6 +8,8 @@ import rigor from "../../Assets/Projects/rigor.png";
 import robotics from "../../Assets/Projects/robotics.webp";
 import personal from "../../Assets/Projects/personal.png";
 import ecohub from "../../Assets/Projects/ecohub.png";
+import cybersecurity from "../../Assets/Projects/cybersecurity.png";
+import memorylane from "../../Assets/Projects/MemoryLane.png";
 
 function Projects() {
   return (
@@ -29,6 +31,16 @@ function Projects() {
               description="EcoHub provides eco-friendly activities and rewards users with EcoCoins for their participation and positive environmental impact."
               ghLink="https://github.com/Harsh-Is-Coding/terrahacks"
               demoLink="https://devpost.com/software/ecohub-ry6n8o"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={memorylane}
+              isBlog={false}
+              title="Memory Lane"
+              description="Memory Lane is a user-friendly web application designed to help individuals with memory impairments by recognizing and identifying faces. It serves as a virtual assistant to connect users with their loved ones effortlessly."
+              demoLink="https://devpost.com/software/memory-lane-dhke7c?ref_content=user-portfolio&ref_feature=in_progress"
+              ghLink="https://github.com/PakmanGames/deltahacks11"
             />
           </Col>
           <Col md={4} className="project-card">
@@ -60,6 +72,16 @@ function Projects() {
               demoLink="https://sachinvedgupta.github.io/Rigor/index.html"
             />
           </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={cybersecurity}
+              isBlog={false}
+              title="CyberSecure System"
+              description="A cutting-edge cybersecurity system featuring facial recognition login, a secure password manager, and encrypted file sharing to ensure privacy and data protection."
+              ghLink="https://www.linkedin.com/posts/harsh-shukla-2005hs_engineeringexcellence-cybersecurityinnovation-activity-7264444646985027584-Mh1v?utm_source=share&utm_medium=member_desktop"
+            />
+          </Col>
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={robotics}
