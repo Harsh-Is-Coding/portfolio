@@ -14,7 +14,6 @@ import {
   SiFirebase,
   SiPostgresql,
 } from "react-icons/si";
-import { TbBrandGolang } from "react-icons/tb";
 
 function Techstack() {
   return (
@@ -45,6 +44,9 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiPython />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiJava />
       </Col>
     </Row>
   );
