@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.8be6fc00.css",
-    "main.js": "/portfolio/static/js/main.4710c008.js",
+    "main.js": "/portfolio/static/js/main.a289cea5.js",
     "static/js/770.cf7f7224.chunk.js": "/portfolio/static/js/770.cf7f7224.chunk.js",
     "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
     "static/media/cybersecurity.png": "/portfolio/static/media/cybersecurity.8b98a4bc8e5644dfdfa6.png",
@@ -9,7 +9,7 @@
     "static/media/personal.png": "/portfolio/static/media/personal.cbd36bf2c222c2f42003.png",
     "static/media/rigor.png": "/portfolio/static/media/rigor.663b3b34759e94e160c0.png",
     "static/media/head-shot.jpg": "/portfolio/static/media/head-shot.930c29dc871cc498fcb1.jpg",
-    "static/media/Technical Resume - Harsh Shukla.pdf": "/portfolio/static/media/Technical Resume - Harsh Shukla.f56332489d62ddde5b51.pdf",
+    "static/media/Technical Resume - Harsh Shukla.pdf": "/portfolio/static/media/Technical Resume - Harsh Shukla.9695128709df59e1f439.pdf",
     "static/media/sevahub.png": "/portfolio/static/media/sevahub.0192a7d27503e9e05df5.png",
     "static/media/eduglow.png": "/portfolio/static/media/eduglow.ff1c8779e491eb74e4b5.png",
     "static/media/logo.png": "/portfolio/static/media/logo.3fae9d42b107b0da1b70.png",
@@ -21,12 +21,12 @@
     "static/media/robotics.webp": "/portfolio/static/media/robotics.a9c28ee4d9d7984cbaf0.webp",
     "index.html": "/portfolio/index.html",
     "main.8be6fc00.css.map": "/portfolio/static/css/main.8be6fc00.css.map",
-    "main.4710c008.js.map": "/portfolio/static/js/main.4710c008.js.map",
+    "main.a289cea5.js.map": "/portfolio/static/js/main.a289cea5.js.map",
     "770.cf7f7224.chunk.js.map": "/portfolio/static/js/770.cf7f7224.chunk.js.map",
     "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8be6fc00.css",
-    "static/js/main.4710c008.js"
+    "static/js/main.a289cea5.js"
   ]
 }
