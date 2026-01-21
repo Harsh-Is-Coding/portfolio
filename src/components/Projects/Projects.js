@@ -10,6 +10,7 @@ import personal from "../../Assets/Projects/personal.png";
 import ecohub from "../../Assets/Projects/ecohub.png";
 import cybersecurity from "../../Assets/Projects/cybersecurity.png";
 import memorylane from "../../Assets/Projects/MemoryLane.png";
+import badge from "../../Assets/Projects/badge.png";
 
 function Projects() {
   return (
@@ -23,6 +24,16 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
+          <ProjectCard
+              imgPath={badge}
+              isBlog={false}
+              title="Badge"
+              description="Badge is a web-based professional networking platform designed for hackathons, conferences, and career fairs. It uses AI-powered identity extraction, vector embeddings, and 3D visualization to help attendees make meaningful connections based on professional compatibility rather than superficial metrics."
+              ghLink="https://github.com/RajanChavada/Badge"
+              demoLink="https://devpost.com/software/badge"
+            />
+          </Col>
           <Col md={4} className="project-card">
           <ProjectCard
               imgPath={ecohub}
